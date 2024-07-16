@@ -1,0 +1,3 @@
+[submodule "custom-report"]
+	path = custom-report
+	url = https://github.com/rakyankrisna/custom-report.git
