@@ -1,3 +1,0 @@
-[submodule "path/to/submodule-report"]
-	path = path/to/submodule-report
-	url = https://github.com/rakyankrisna/custom-report.git
